@@ -1,3 +1,5 @@
+- 피어리뷰는 README2.md에 있습니다.
+
 # Speako: Learning Korean Application
 ## 어플리케이션 기본 정보
 - 한국어 학습 어플
