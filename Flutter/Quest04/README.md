@@ -23,7 +23,7 @@ Speako: 한국어 학습 어플 개요
 ## 정보구조도, 와이어프레임
 ![Information Architecture drawio](https://github.com/user-attachments/assets/264a269b-e04d-4119-9c94-be6712a969fc)
 
-## 프로토타이핑
+## 프로토타이핑 (재생 버튼 클릭)
 ### 피그마 링크: https://www.figma.com/design/nI49ZUZOSjYR1zkDmLi54Q/AIFFEL-QUEST?node-id=0-1&m=dev&t=JnrpJT5DThcbfWUe-1
 ![화면-기록-2025-03-07-오후-4 33 36](https://github.com/user-attachments/assets/bd287e67-708b-4cf0-80b1-76542c786160)
 
