@@ -1,4 +1,5 @@
 - 피어리뷰는 peer_review.md에 있습니다.
+- 코드 설명 주석 -> codes/main.dart
 
 # Speako: Learning Korean Application
 ## 어플리케이션 기본 정보
