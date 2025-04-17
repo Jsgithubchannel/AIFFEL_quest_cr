@@ -14,3 +14,6 @@
 [어려웠던 점]
 - 초기 BCELoss 기반 GAN 학습 시 Loss 및 Accuracy 그래프의 불안정성 원인을 파악하고 해결하는 과정이 어려웠음.
 - WGAN-GP의 개념(특히 Gradient Penalty)을 이해하고 코드에 정확히 구현하는 데 시간이 소요됨.
+
+[영상]
+![a](https://github.com/user-attachments/assets/b9f3af6c-f858-4ddd-ac8e-0ccfe71ac3a9)
