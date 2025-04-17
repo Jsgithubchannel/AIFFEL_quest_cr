@@ -16,4 +16,5 @@
 - WGAN-GP의 개념(특히 Gradient Penalty)을 이해하고 코드에 정확히 구현하는 데 시간이 소요됨.
 
 [영상]
+
 ![a](https://github.com/user-attachments/assets/b9f3af6c-f858-4ddd-ac8e-0ccfe71ac3a9)
